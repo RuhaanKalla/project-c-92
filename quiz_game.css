@@ -1,0 +1,52 @@
+body
+{
+	background: lightcoral;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgba(229, 245, 3, 0.972);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name_input , #player2_name_input
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+h3{
+	color:blue;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+label{
+	color: red;
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: large;
+}
+h1{
+	color:purple;
+}
+#output{
+	background: white;
+	border-radius: 10px;
+	border-top:10px solid #aa4465;
+	padding:10px;
+	float:none;
+	text-align: left;
+}
+input{
+	width:70%;
+}
+h4{
+	margin-left: 20px;
+	
+}
+span{
+	margin-left: 10px;
+}
+#player_qustion , #player_answer{
+	color: black;
+}
